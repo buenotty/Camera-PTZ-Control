@@ -1,0 +1,36 @@
+{
+  "camera": {
+    "ip": "",
+    "http_port": 80,
+    "visca_port": 52381,
+    "rtsp_port": 554,
+    "username": "admin",
+    "password": ""
+  },
+  "video": {
+    "rtsp_url": "",
+    "network_caching": 250,
+    "use_tcp": true
+  },
+  "ui": {
+    "theme": "dark",
+    "language": "pt-BR",
+    "window_size": [
+      1280,
+      720
+    ]
+  },
+  "input": {
+    "mode": "hybrid",
+    "ptz_speed": 8,
+    "zoom_speed": 4
+  },
+  "image_defaults": {
+    "brightness": 50,
+    "contrast": 50,
+    "saturation": 50,
+    "sharpness": 50,
+    "exposure_mode": "AUTO",
+    "white_balance_mode": "AUTO"
+  }
+}

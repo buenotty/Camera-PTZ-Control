@@ -1,0 +1,1 @@
+Vídeo: instale FFmpeg para RTSP e gravação. VLC da mesma arquitetura do Python é uma alternativa para a prévia. Consulte README.md para instalação e compatibilidade.
